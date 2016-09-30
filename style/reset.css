@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background:#3a3a3a; font-family:'微软雅黑'; font-size:16px; color:#fff;}
+*{ padding:0; margin:0}
+ul li{ list-style:none;}
+a{ text-decoration:none; color:#fff;}
+img{ border:0px;}
+::selection{ background:#F00}
